@@ -2,3 +2,5 @@ name: CrutchesPlugin
 version: '${version}'
 main: com.crutches.meow.crutchesplugin.CrutchesPlugin
 api-version: 1.18
+commands:
+  crutches: {}
